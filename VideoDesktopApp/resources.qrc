@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/volume2.png</file>
+        <file>Icons/volume.png</file>
+        <file>Icons/theme.png</file>
+        <file>Icons/stop.png</file>
+        <file>Icons/search.png</file>
+        <file>Icons/previous.png</file>
+        <file>Icons/play.png</file>
+        <file>Icons/pause.png</file>
+        <file>Icons/open.png</file>
+        <file>Icons/fullscreen.png</file>
+        <file>Icons/forward.png</file>
+        <file>Icons/download.png</file>
+        <file>Icons/close.png</file>
+        <file>Icons/bookmark2.png</file>
+        <file>Icons/bookmark1.png</file>
+        <file>Icons/add.png</file>
+    </qresource>
+</RCC>
